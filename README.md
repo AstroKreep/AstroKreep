@@ -249,8 +249,6 @@ My projects often combine:
 > GITHUB_ANALYTICS
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstroKreep&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3030&icon_color=ff3030&text_color=c9d1d9&ring_color=8b0000" alt="AstroKreep GitHub statistics">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKreep&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3030&text_color=c9d1d9" alt="AstroKreep most used languages">
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AstroKreep&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=8B949E" alt="AstroKreep GitHub contribution streak">
