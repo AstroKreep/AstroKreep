@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Dev ---  Big Cillin
 * 🌍 Undisclosed location
 * ✉️  You can contact me at [Shiftmob@yahoo.com]
-* (mailto:Shiftmob@yahoo.com)
 * 🧠  I'm currently learning Everything * 👥  I'm looking to collaborate on Anything
 * 💬  Ask me about Interesting in Game Development
 
@@ -14,7 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AstroKreep"><img src="https://github-readme-stats.vercel.app/api?username=AstroKreep&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AstroKreep's GitHub stats" /></a>
 <a href="http://www.github.com/AstroKreep"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AstroKreep&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/AstroKreep" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKreep&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <b>Top Repositories</b>
