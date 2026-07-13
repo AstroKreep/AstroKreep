@@ -1,9 +1,5 @@
 <div align="center">
-
-⚠️ ASTROKREEP
-
-GAME SYSTEMS • RUST DEVELOPMENT • AI BEHAVIOR • CREATIVE TOOLING
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,45:8b0000,75:ff3030,100:0d1117&text=%E2%9A%A0%EF%B8%8F%20ASTROKREEP&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=GAME%20SYSTEMS%20%E2%80%A2%20RUST%20DEVELOPMENT%20%E2%80%A2%20AI%20BEHAVIOR%20%E2%80%A2%20CREATIVE%20TOOLING&descAlignY=58&descSize=16" alt="AstroKreep animated banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=FF3030&center=true&vCenter=true&width=900&lines=Building+Worlds%2C+Systems%2C+and+Tools;Creating+Rust+Plugins+That+Feel+Native;Experimenting+With+Biologically-Inspired+AI;Developing+Games%2C+Agents%2C+and+Automation;Turning+Wild+Ideas+Into+Real+Systems" alt="AstroKreep typing animation" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=AstroKreep&label=PROFILE+VIEWS&color=8b0000&style=for-the-badge" alt="Profile views" />
@@ -13,7 +9,9 @@ GAME SYSTEMS • RUST DEVELOPMENT • AI BEHAVIOR • CREATIVE TOOLING
 
 ⸻
 
-> OPERATOR_PROFILE
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=OPERATOR_PROFILE" alt="Operator profile" />
+</div>
 
 HANDLE:       AstroKreep
 ROLE:         Developer • Creator • Systems Builder
@@ -30,8 +28,9 @@ STATUS:       ONLINE — ALWAYS BUILDING
 
 ⸻
 
-> SOCIAL_UPLINKS
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=0891B2&center=true&vCenter=true&repeat=true&width=900&height=70&lines=SOCIAL_UPLINKS" alt="Social uplinks" />
+</div>
 <p align="left">
 <a href="https://www.github.com/AstroKreep" target="_blank" rel="noreferrer">
   <picture>
@@ -74,7 +73,9 @@ STATUS:       ONLINE — ALWAYS BUILDING
 
 ⸻
 
-> SYSTEM_OVERVIEW
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=SYSTEM_OVERVIEW" alt="System overview" />
+</div>
 
 I am a developer and creator focused on building systems that feel alive.
 
@@ -82,7 +83,9 @@ My work ranges from polished Rust server plugins and experimental NPC intelligen
 
 I enjoy taking an idea from its earliest concept through:
 
-CONCEPT → ARCHITECTURE → DEVELOPMENT → TESTING → REFINEMENT → RELEASE
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1000&pause=500&color=00FF9C&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=CONCEPT+%E2%86%92+ARCHITECTURE+%E2%86%92+DEVELOPMENT+%E2%86%92+TESTING+%E2%86%92+REFINEMENT+%E2%86%92+RELEASE" alt="Development pipeline" />
+</div>
 
 The goal is not simply to write code.
 
@@ -90,8 +93,9 @@ The goal is to create systems that are memorable, useful, expandable, and fun to
 
 ⸻
 
-> CURRENT_OPERATIONS
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:8b0000,100:0d1117&text=CURRENT%20OPERATIONS&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=fadeIn" alt="Current operations" />
+</div>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -165,7 +169,9 @@ Creating tools for:
 
 ⸻
 
-> FEATURED_SYSTEMS
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:0891b2,100:0d1117&text=FEATURED%20SYSTEMS&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=fadeIn" alt="Featured systems" />
+</div>
 
 🧬 Flagellum AI
 
@@ -262,7 +268,9 @@ Core areas include:
 
 ⸻
 
-> TECH_ARSENAL
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:8b0000,100:0d1117&text=TECH%20ARSENAL&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=fadeIn" alt="Tech arsenal" />
+</div>
 
 Languages
 
@@ -313,23 +321,28 @@ AI-Assisted Development
 
 ⸻
 
-> DEVELOPMENT_DIRECTIVES
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=DEVELOPMENT_DIRECTIVES" alt="Development directives" />
+</div>
 
 principles:
-  - Build systems that solve real problems
-  - Keep architecture modular
-  - Make configuration understandable
-  - Protect user privacy
-  - Avoid unnecessary dependencies
-  - Design interfaces that feel intentional
-  - Test before calling something finished
-  - Build for expansion without overengineering
-  - Keep the user experience clean
-  - Leave every project better than it started
+
+* Build systems that solve real problems
+* Keep architecture modular
+* Make configuration understandable
+* Protect user privacy
+* Avoid unnecessary dependencies
+* Design interfaces that feel intentional
+* Test before calling something finished
+* Build for expansion without overengineering
+* Keep the user experience clean
+* Leave every project better than it started
 
 ⸻
 
-> CREATIVE_SIGNATURE
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=0891B2&center=true&vCenter=true&repeat=true&width=900&height=70&lines=CREATIVE_SIGNATURE" alt="Creative signature" />
+</div>
 
 My projects often combine:
 
@@ -346,8 +359,9 @@ My projects often combine:
 
 ⸻
 
-> GITHUB_ANALYTICS
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:8b0000,100:0d1117&text=GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=28&fontAlignY=52&animation=fadeIn" alt="GitHub analytics" />
+</div>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AstroKreep&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF5500&currStreakLabel=FF3030&sideLabels=C9D1D9&dates=8B949E" alt="AstroKreep GitHub contribution streak" />
 </div>
@@ -357,22 +371,21 @@ My projects often combine:
 
 ⸻
 
-> ACTIVE_OBJECTIVES
-
-[ONLINE] Build polished Rust plugins
-[ONLINE] Create reusable Unity development systems
-[ONLINE] Develop advanced NPC behavior architecture
-[ONLINE] Build privacy-first local tools
-[ONLINE] Explore autonomous development agents
-[ONLINE] Improve the Blender-to-Unity character pipeline
-[ONLINE] Release projects people genuinely enjoy using
-[ONLINE] Turn strange ideas into working software
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=00FF9C&center=true&vCenter=true&repeat=true&width=900&height=70&lines=ACTIVE_OBJECTIVES" alt="Active objectives" />
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1400&pause=450&color=00FF9C&center=true&vCenter=true&repeat=true&width=1000&height=220&lines=%5BONLINE%5D+Build+polished+Rust+plugins;%5BONLINE%5D+Create+reusable+Unity+development+systems;%5BONLINE%5D+Develop+advanced+NPC+behavior+architecture;%5BONLINE%5D+Build+privacy-first+local+tools;%5BONLINE%5D+Explore+autonomous+development+agents;%5BONLINE%5D+Improve+the+Blender-to-Unity+character+pipeline;%5BONLINE%5D+Release+projects+people+genuinely+enjoy+using;%5BONLINE%5D+Turn+strange+ideas+into+working+software" alt="Active objectives animation" />
+</div>
 
 ⸻
 
-> PROJECT_PHILOSOPHY
-
-A wild idea is only useless until somebody builds it.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=PROJECT_PHILOSOPHY" alt="Project philosophy" />
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=A+wild+idea+is+only+useless+until+somebody+builds+it." alt="Project philosophy animation" />
+</div>
 
 I am interested in projects that push beyond standard templates—systems that behave differently, tools that remove friction, worlds that feel more alive, and mechanics players have not experienced a hundred times before.
 
@@ -386,8 +399,9 @@ Things that people remember.
 
 ⸻
 
-> SUPPORT_THE_WORK
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=0891B2&center=true&vCenter=true&repeat=true&width=900&height=70&lines=SUPPORT_THE_WORK" alt="Support the work" />
+</div>
 <div align="center">
 
 If one of my projects helps you, inspires you, or gives you an idea:
@@ -405,15 +419,7 @@ Stars help other developers discover the work and show me which projects are wor
 ⸻
 
 <div align="center">
-
-SYSTEM STATUS: ONLINE
-
-Building strange things until they become real.
-
-CORE SYSTEMS .............. OPERATIONAL
-CREATIVE ENGINE ........... OVERCLOCKED
-PROJECT QUEUE ............. FULL
-IDEA GENERATOR ............ UNSTABLE
-SLEEP SCHEDULE ............ NOT FOUND
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:ff3030&height=140&section=footer" width="100%" alt="AstroKreep footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1600&pause=500&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=SYSTEM+STATUS%3A+ONLINE;Building+strange+things+until+they+become+real." alt="System status animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1200&pause=400&color=00FF9C&center=true&vCenter=true&repeat=true&width=900&height=180&lines=CORE+SYSTEMS+..............+OPERATIONAL;CREATIVE+ENGINE+...........+OVERCLOCKED;PROJECT+QUEUE+.............+FULL;IDEA+GENERATOR+............+UNSTABLE;SLEEP+SCHEDULE+............+NOT+FOUND" alt="Animated system status" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:ff3030&height=160&section=footer&animation=fadeIn" width="100%" alt="AstroKreep footer" />
 </div>
