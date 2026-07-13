@@ -261,14 +261,13 @@ My projects often combine:
 
 > OBJECTIVES
 
-[■] Build polished Rust plugins
-[■] Create reusable Unity development systems
-[■] Develop advanced NPC behavior architecture
-[■] Build privacy-first local tools
-[■] Explore autonomous development agents
-[■] Improve the Blender-to-Unity character pipeline
-[■] Release projects people genuinely enjoy using
-[□] Stop starting new projects before finishing the others
+* [■] Build polished Rust plugins
+* [■] Create reusable Unity development systems
+* [■] Develop advanced NPC behavior architecture
+* [■] Build privacy-first local tools
+* [■] Explore autonomous development agents
+* [■] Improve the Blender-to-Unity character pipeline
+* [■] Release projects people genuinely enjoy using
 
 ⸻
 
