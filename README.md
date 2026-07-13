@@ -6,15 +6,9 @@
 <img src="https://img.shields.io/github/followers/AstroKreep?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/AstroKreep?affiliations=OWNER&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TOTAL+STARS" alt="GitHub stars" />
 </div>
-
-⸻
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1100&pause=350&color=00FF9C&center=true&vCenter=true&repeat=true&width=900&height=170&lines=%3E+INITIALIZING+ASTROKREEP_CORE...;%3E+CREATIVE_ENGINE........ONLINE;%3E+RUST_SYSTEMS...........ONLINE;%3E+AI_BEHAVIOR............ONLINE;%3E+PROJECT_QUEUE..........OVERCLOCKED;%3E+ACCESS..................GRANTED" alt="AstroKreep terminal boot animation" />
 </div>
-
-⸻
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=OPERATOR_PROFILE" alt="Operator profile" />
 </div>
