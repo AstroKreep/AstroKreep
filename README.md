@@ -10,8 +10,14 @@ Game Systems • Rust Development • AI Behavior • Creative Tooling
 
 ⸻
 
+* Dev ---  Big Cillin
+* 🌍 Undisclosed location
+* ✉️  You can contact me at [Shiftmob@yahoo.com]
+* 🧠  I'm currently learning Everything
+* 👥  I'm looking to collaborate on Anything
 
-Creator:     AstroKreep
+⸻
+
 Focus:       Games, AI, Rust plugins, automation, and developer tools
 Environment: Unity, Blender, Rust Dedicated Server, Windows
 Mission:     Turn ambitious ideas into real, usable systems
