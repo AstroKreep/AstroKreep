@@ -12,12 +12,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1500&pause=700&color=FF3030&center=true&vCenter=true&repeat=true&width=900&height=70&lines=OPERATOR_PROFILE" alt="Operator profile" />
 </div>
-HANDLE:       AstroKreep
-ROLE:         Developer • Creator • Systems Builder
-LOCATION:     Undisclosed
-FOCUS:        Games • AI • Rust Plugins • Automation • Developer Tools
-ENVIRONMENT:  Unity • Blender • Rust Dedicated Server • Windows
-STATUS:       ONLINE — ALWAYS BUILDING
+
+⸻
 
 * 🧑‍💻 Developer: Big Cillin
 * 🌍 Location: Undisclosed
