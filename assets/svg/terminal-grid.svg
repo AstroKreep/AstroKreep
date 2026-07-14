@@ -1,0 +1,51 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#10151b"/>
+    </linearGradient>
+    <filter id="greenGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.8"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="180" fill="url(#bg)"/>
+
+  <g opacity="0.16" stroke="#00ff9c" stroke-width="1">
+    <path d="M0 20H1600"/>
+    <path d="M0 40H1600"/>
+    <path d="M0 60H1600"/>
+    <path d="M0 80H1600"/>
+    <path d="M0 100H1600"/>
+    <path d="M0 120H1600"/>
+    <path d="M0 140H1600"/>
+    <path d="M0 160H1600"/>
+  </g>
+
+  <g opacity="0.1" stroke="#00ff9c" stroke-width="1">
+    <path d="M100 0V180"/>
+    <path d="M300 0V180"/>
+    <path d="M500 0V180"/>
+    <path d="M700 0V180"/>
+    <path d="M900 0V180"/>
+    <path d="M1100 0V180"/>
+    <path d="M1300 0V180"/>
+    <path d="M1500 0V180"/>
+  </g>
+
+  <g filter="url(#greenGlow)">
+    <path d="M0 96 C 120 96, 140 58, 250 58 C 360 58, 390 118, 495 118 C 600 118, 630 70, 745 70 C 860 70, 890 124, 1000 124 C 1110 124, 1130 84, 1245 84 C 1360 84, 1400 112, 1600 112"
+          stroke="#00ff9c" stroke-width="2.4" fill="none" opacity="0.9">
+      <animate attributeName="d"
+               dur="5s"
+               repeatCount="indefinite"
+               values="M0 96 C 120 96, 140 58, 250 58 C 360 58, 390 118, 495 118 C 600 118, 630 70, 745 70 C 860 70, 890 124, 1000 124 C 1110 124, 1130 84, 1245 84 C 1360 84, 1400 112, 1600 112;
+                       M0 88 C 120 88, 150 108, 255 108 C 360 108, 388 64, 500 64 C 612 64, 628 126, 742 126 C 856 126, 884 76, 998 76 C 1112 76, 1136 118, 1242 118 C 1348 118, 1410 92, 1600 92;
+                       M0 96 C 120 96, 140 58, 250 58 C 360 58, 390 118, 495 118 C 600 118, 630 70, 745 70 C 860 70, 890 124, 1000 124 C 1110 124, 1130 84, 1245 84 C 1360 84, 1400 112, 1600 112"/>
+    </path>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="180" fill="url(#bg)" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
