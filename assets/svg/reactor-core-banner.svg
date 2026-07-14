@@ -1,0 +1,73 @@
+<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="110" x2="1600" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#15090b"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 110) rotate(90) scale(72 72)">
+      <stop offset="0" stop-color="#fff5f5"/>
+      <stop offset="0.18" stop-color="#ff9b7a"/>
+      <stop offset="0.5" stop-color="#ff3030"/>
+      <stop offset="0.78" stop-color="#8b0000"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rail" x1="220" y1="0" x2="1380" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.2" stop-color="#8b0000"/>
+      <stop offset="0.5" stop-color="#ff3030"/>
+      <stop offset="0.8" stop-color="#8b0000"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="220" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#00ff9c" stroke-width="1">
+    <path d="M0 55H1600"/>
+    <path d="M0 110H1600"/>
+    <path d="M0 165H1600"/>
+  </g>
+
+  <rect x="230" y="104" width="1140" height="12" rx="6" fill="url(#rail)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.75" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="300" y="95" width="170" height="30" rx="6" fill="#0b0f14" stroke="#8b0000" opacity="0.9"/>
+  <rect x="1130" y="95" width="170" height="30" rx="6" fill="#0b0f14" stroke="#8b0000" opacity="0.9"/>
+
+  <circle cx="800" cy="110" r="26" fill="#fff5f5" opacity="0.95" filter="url(#glow)">
+    <animate attributeName="r" values="24;30;24" dur="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.82" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="110" r="52" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="50;62;50" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g stroke="#ff5500" stroke-width="3" stroke-linecap="round" filter="url(#glow)">
+    <path d="M565 110 C 640 110, 690 110, 744 110">
+      <animate attributeName="stroke-dasharray" values="20 14;48 10;20 14" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M856 110 C 910 110, 960 110, 1035 110">
+      <animate attributeName="stroke-dasharray" values="18 16;44 12;18 16" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g fill="#00ff9c" opacity="0.8">
+    <circle cx="342" cy="110" r="3">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1260" cy="110" r="3">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="800" y="48" text-anchor="middle" fill="#c9d1d9" font-family="Orbitron, Arial, sans-serif" font-size="24" letter-spacing="6">REACTOR CORE ONLINE</text>
+  <text x="800" y="186" text-anchor="middle" fill="#8b949e" font-family="Fira Code, monospace" font-size="16" letter-spacing="3">ENERGY FLOW // STABLE WITH INTERMITTENT ARC EVENTS</text>
+</svg>
