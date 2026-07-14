@@ -1,0 +1,75 @@
+<svg width="1600" height="120" viewBox="0 0 1600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#13070a"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.12" stop-color="#8b0000"/>
+      <stop offset="0.5" stop-color="#ff3030"/>
+      <stop offset="0.88" stop-color="#8b0000"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.6" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="sparkGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="1.8"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="120" fill="url(#bg)"/>
+  <rect x="0" y="47" width="1600" height="26" rx="13" fill="#080b0f" opacity="0.8"/>
+
+  <path d="M 0 60 C 90 56, 150 68, 220 60 S 350 50, 430 60 S 560 72, 640 60 S 770 48, 850 60 S 980 70, 1060 60 S 1190 48, 1270 60 S 1410 70, 1600 60"
+        stroke="url(#beam)" stroke-width="4" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="d"
+             dur="4.5s"
+             repeatCount="indefinite"
+             values="M 0 60 C 90 56, 150 68, 220 60 S 350 50, 430 60 S 560 72, 640 60 S 770 48, 850 60 S 980 70, 1060 60 S 1190 48, 1270 60 S 1410 70, 1600 60;
+                     M 0 60 C 110 64, 170 52, 240 60 S 370 70, 450 60 S 580 48, 660 60 S 790 72, 870 60 S 1000 50, 1080 60 S 1210 70, 1290 60 S 1430 50, 1600 60;
+                     M 0 60 C 90 56, 150 68, 220 60 S 350 50, 430 60 S 560 72, 640 60 S 770 48, 850 60 S 980 70, 1060 60 S 1190 48, 1270 60 S 1410 70, 1600 60"/>
+    <animate attributeName="stroke-width" values="3.5;4.8;3.5" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.72;1;0.78;1;0.72" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+
+  <g filter="url(#sparkGlow)" fill="#ff5500">
+    <circle cx="210" cy="54" r="2.1">
+      <animate attributeName="cy" values="54;42;54" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="485" cy="65" r="2.4">
+      <animate attributeName="cy" values="65;51;65" dur="1.9s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="812" cy="53" r="2.2">
+      <animate attributeName="cy" values="53;39;53" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1115" cy="66" r="2.6">
+      <animate attributeName="cy" values="66;50;66" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1380" cy="55" r="2.1">
+      <animate attributeName="cy" values="55;43;55" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#ff3030" stroke-width="1.5" stroke-linecap="round" opacity="0.8" filter="url(#glow)">
+    <path d="M215 60 L198 48 L208 61 L193 70"/>
+    <path d="M487 60 L472 48 L482 61 L468 72"/>
+    <path d="M815 60 L800 49 L809 62 L795 71"/>
+    <path d="M1118 60 L1102 49 L1111 62 L1097 73"/>
+    <path d="M1382 60 L1368 50 L1376 61 L1362 70"/>
+    <animate attributeName="opacity" values="0.35;1;0.45;0.9;0.35" dur="1.1s" repeatCount="indefinite"/>
+  </g>
+</svg>
