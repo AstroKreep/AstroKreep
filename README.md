@@ -23,7 +23,7 @@ HANDLE:       AstroKreep
 ROLE:         Developer • Creator • Systems Builder
 LOCATION:     Undisclosed
 FOCUS:        Games • AI • Rust Plugins • Automation • Developer Tools
-ENVIRONMENT:  Unity • Blender • Rust Dedicated Server • Windows
+ENVIRONMENT:  Unity • Blender • Rust & Schedule I Dedicated Servers • Windows
 STATUS:       ONLINE — ALWAYS BUILDING
 ```
 
@@ -227,6 +227,21 @@ Private tooling for local Rust server management and operations.
 - RCON control
 - Automated startup
 - Performance monitoring
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 🎮 [Schedule I Dedicated Server](https://github.com/AstroKreep/Schedule-I)
+**STATUS:** ONLINE  
+A self-hosted operations layer for *Schedule I* dedicated servers — built on MelonLoader + S1DedicatedServers, not a fork of either.
+
+- Auto-restart watchdog with crash-loop protection
+- Verified, hashed backups with automatic retention
+- Schedule I Doctor health diagnostics
+- MCP server giving Claude Code direct, tool-based server control
+- Custom mods fixing real dialogue-sync and gameplay bugs
 
 </td>
 </tr>
