@@ -37,29 +37,8 @@ STATUS:       ONLINE — ALWAYS BUILDING
 </div>
 
 <p align="center">
-  <a href="https://www.github.com/AstroKreep" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="38" height="38" alt="GitHub" title="GitHub" />
-  </a>
-  <a href="https://www.twitch.tv/astro_kreep_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" width="38" height="38" alt="Twitch" title="Twitch" />
-  </a>
-  <a href="https://www.youtube.com/@shiftmob69?si=-o9L7moCBv1z2ifY" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" width="38" height="38" alt="YouTube" title="YouTube" />
-  </a>
-  <a href="https://on.soundcloud.com/e8Gd398Q0SOydDZqrp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/soundcloud/FF5500" width="38" height="38" alt="SoundCloud" title="SoundCloud" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/AstroKreep" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/AstroKreep?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
-  </a>
-  <a href="https://www.twitch.tv/astro_kreep_" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitch/status/astro_kreep_?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" alt="Twitch status" />
-  </a>
-  <a href="https://on.soundcloud.com/e8Gd398Q0SOydDZqrp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SOUNDCLOUD-LISTEN_NOW-0891b2?style=for-the-badge&logo=soundcloud&logoColor=FF5500&labelColor=1c1917" alt="Listen on SoundCloud" />
+  <a href="https://beacons.ai/astrokreep" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ALL_LINKS-BEACONS-0891b2?style=for-the-badge&logo=linktree&logoColor=white&labelColor=1c1917" alt="All links on Beacons" />
   </a>
 </p>
 
